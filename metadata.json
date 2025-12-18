@@ -1,0 +1,7 @@
+{
+  "name": "Memora - AI Photo Restoration",
+  "description": "Professional AI-powered vintage photo restoration. Breathe life into your old memories with high-end colorization and damage repair.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
